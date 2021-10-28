@@ -1,12 +1,3 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+# Scoup
+### "Schedule" + "Group"
+#### 프로젝트 그룹, 스터디 그룹 등 여러 그룹들의 일정 조율 및 관리를 도와주는 플랫폼, Scoup
